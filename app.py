@@ -178,4 +178,4 @@ if os.path.exists(ARCHIVO_LOGS):
         use_container_width=True
     )
 else:
-    st.info("Aún no hay validaciones registradas en esta sesión. Los logs aparecerán aquí cuando finalice la primera auditoría.")app
+    st.info("Aún no hay validaciones registradas en esta sesión. Los logs aparecerán aquí cuando finalice la primera auditoría.")
